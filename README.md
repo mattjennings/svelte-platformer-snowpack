@@ -4,6 +4,12 @@
 
 You can open public/assets/tilemap.json with Tiled to edit the tilemap.
 
+## Asset Credits
+
+Adventurer sprite is from [rvos](https://rvros.itch.io/)
+
+Tileset from [RottingPixels](https://rottingpixels.itch.io/castle-platformer-tileset-16x16free)
+
 ## Available Scripts
 
 ### npm start
